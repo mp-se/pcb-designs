@@ -1,0 +1,8 @@
+*-backups
+*-cache
+*.zip
+*.bak
+.DS_Store
+gravitymon*
+kegmon*
+pressuremon_analog*
