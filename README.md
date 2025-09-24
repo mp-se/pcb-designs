@@ -2,7 +2,11 @@ This repository contains the PCB designs for my projects and currently the follo
 
 ### Projects
 
-* ([Pressuremon](https://github.com/mp-se/pressuremon)) Digital edition v1.3
+#### [Pressuremon](https://github.com/mp-se/pressuremon)
+
+This PCB is tested and works for new builds
+
+* Digital edition v1.3 - Folder: pressuremon_digital
 
 ### Needed software
 
