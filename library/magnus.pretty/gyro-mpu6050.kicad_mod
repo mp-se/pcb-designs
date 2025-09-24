@@ -1,4 +1,4 @@
-(footprint "i2c_gyro"
+(footprint "gyro-mpu6050"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -7,6 +7,7 @@
 		(at 1.27 2.54 0)
 		(unlocked yes)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "442a36d6-a1f8-407d-be50-0d42806cf50d")
 		(effects
 			(font
@@ -15,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "i2c_gyro"
+	(property "Value" "gyro-mpu6050"
 		(at 1.27 4.445 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -64,6 +65,46 @@
 		(fill no)
 		(layer "F.SilkS")
 		(uuid "b874f616-14ed-4f91-9908-45d7409910a5")
+	)
+	(fp_line
+		(start -7.0104 -10.3124)
+		(end -7.0104 10.2616)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "4f9abe8b-0eb8-49ed-8fea-bf6e61365c6c")
+	)
+	(fp_line
+		(start -7.0104 10.2616)
+		(end 9.0932 10.2616)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "b781c26f-fdd5-4f75-973a-03030ef906b8")
+	)
+	(fp_line
+		(start 9.0932 -10.3124)
+		(end -7.0104 -10.3124)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "5b46e93a-6ab3-4ac4-9dfb-ca113fe31a1d")
+	)
+	(fp_line
+		(start 9.0932 10.2616)
+		(end 9.0932 -10.3124)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "bbb70611-24ec-4ac1-86bd-8afbd46a3222")
 	)
 	(fp_text user "SCL"
 		(at -3.175 -3.175 0)
