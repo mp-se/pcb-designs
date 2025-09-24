@@ -2,7 +2,8 @@
 *-cache
 *.zip
 *.bak
+*-bak
+*.plt
 .DS_Store
-gravitymon*
 kegmon*
 pressuremon_analog*
