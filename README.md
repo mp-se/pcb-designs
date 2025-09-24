@@ -10,6 +10,11 @@ This PCB is tested and works for new builds
 
 #### [Gravitymon](https://github.com/mp-se/gravitymon)
 
+These are still in development and not fully tested
+
+* Gravitymon Zero PET (iSpindel) v1.0 - Folder: gravitymon_pet_zero
+* Gravitymon Zero PILL v1.0 - Folder: gravitymon_pill_zero
+
 The following are development related pcb's for testing new boards
 
 * Gravitymon Super Mini Adapter v1.0 - Folder: gravitymon_supermini_adapter
