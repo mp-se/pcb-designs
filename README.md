@@ -12,7 +12,7 @@ This PCB is tested and works for new builds
 
 This PCB is tested and works for new builds
 
-* Gravitymon Zero PET (iSpindel) v1.0 - Folder: gravitymon_pet_zero
+* Gravitymon Zero PET (iSpindel) v1.1 - Folder: gravitymon_pet_zero
 
 The following are development related pcb's for testing new boards
 
