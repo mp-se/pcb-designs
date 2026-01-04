@@ -35,4 +35,4 @@ The following are development related pcb's for testing new boards
 
 * Kicad 9.0
 
-(c) 2025 Magnus Persson
+(c) 2025-2026 Magnus Persson
