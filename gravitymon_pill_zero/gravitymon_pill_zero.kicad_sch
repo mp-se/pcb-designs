@@ -3544,7 +3544,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Wireless Charge"
+		(property "Value" "Connector for Wireless Charger"
 			(at 105.41 149.352 0)
 			(effects
 				(font
@@ -3613,7 +3613,7 @@
 				)
 			)
 		)
-		(property "Value" "Balance 3"
+		(property "Value" "Balance Pad"
 			(at 220.345 59.69 0)
 			(effects
 				(font
@@ -3745,7 +3745,7 @@
 				)
 			)
 		)
-		(property "Value" "Balance 1"
+		(property "Value" "Balance Pad"
 			(at 220.345 41.91 0)
 			(effects
 				(font
@@ -3903,7 +3903,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TP-4056 LiPo charger with USB-C connector"
 			(at 147.32 97.79 0)
 			(effects
 				(font
@@ -3958,7 +3958,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "18650 battery cell holder for smt"
 			(at 196.85 106.1085 0)
 			(effects
 				(font
@@ -3985,7 +3985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "18650 battery cell holder for smt"
 			(at 193.04 106.68 0)
 			(effects
 				(font
@@ -4328,7 +4328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DS18B20 one wire temperature sensor"
 			(at 111.76 111.76 0)
 			(effects
 				(font
@@ -4644,7 +4644,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Force Config"
+		(property "Value" "Connector for Force Config"
 			(at 121.412 79.248 0)
 			(effects
 				(font
@@ -4779,7 +4779,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Waveshare ESP32 c3 Zero"
 			(at 128.905 34.29 0)
 			(effects
 				(font
@@ -4796,7 +4796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.waveshare.com/wiki/ESP32-C3-Zero?srsltid=AfmBOopQp5_wdbmavH59V2WZeIh0hCY8uWPe9mviRX_U-7M7kkwxvOPk"
 			(at 123.19 59.69 0)
 			(effects
 				(font
@@ -4805,7 +4805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Waveshare ESP32 c3 Zero"
 			(at 123.19 59.69 0)
 			(effects
 				(font
@@ -4894,7 +4894,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "E-Switch SK12D07VG3"
 			(at 184.15 84.836 0)
 			(effects
 				(font
@@ -4920,7 +4920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "On / Off switch"
 			(at 184.15 90.17 0)
 			(effects
 				(font
@@ -5165,7 +5165,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Wireless Charge"
+		(property "Value" "Connector for Wireless Charger"
 			(at 110.49 131.572 0)
 			(effects
 				(font
@@ -5234,7 +5234,7 @@
 				)
 			)
 		)
-		(property "Value" "Balance 2"
+		(property "Value" "Balance Pad"
 			(at 220.345 50.8 0)
 			(effects
 				(font
@@ -5365,7 +5365,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "MPU-6050 Gyro"
 			(at 181.61 51.4321 0)
 			(effects
 				(font
@@ -5392,7 +5392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MPU-6050 Gyro"
 			(at 166.37 55.88 0)
 			(effects
 				(font
